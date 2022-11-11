@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 18px;
+    color: green;
+  text-align: center;
+  
+}
+.first-section{
+        border: 1px solid red;
+        margin: 20px auto;
+        padding: 15px;
+        width: fit-content;
+
+}
+.second-section{
+        border: 1px solid red;
+        margin: 20px auto;
+        padding: 15px;
+        width: fit-content;
+}
+.third-section{
+        border: 1px solid red;
+        margin: 20px auto;
+        padding: 15px;
+        width: fit-content;
+}
+p{
+    text-align: center;
+    padding: 8px;
+}
+em, b{
+    font-size: 14px;
+}
